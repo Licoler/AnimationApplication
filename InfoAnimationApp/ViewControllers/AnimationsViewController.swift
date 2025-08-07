@@ -8,7 +8,7 @@
 import UIKit
 import SpringAnimation
 
-class AnimationsViewController: UIViewController {
+final class AnimationsViewController: UIViewController {
     
     // MARK: - IBOutlets
     @IBOutlet var presetLabel: UILabel!
